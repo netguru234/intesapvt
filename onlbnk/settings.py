@@ -28,13 +28,14 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     # "*"
-    "levebnk.herokuapp.com",
-    "https://levebnk.herokuapp.com/",
-    "www.bankleve.com",
-    "https://www.bankleve.com",
-    "bankleve.com",
-    "https://bankleve.com",
-    'localhost'
+    # "levebnk.herokuapp.com",
+    # "https://levebnk.herokuapp.com/",
+    # "www.bankleve.com",
+    # "https://www.bankleve.com",
+    # "bankleve.com",
+    # "https://bankleve.com",
+    # 'localhost'
+    'intesapvt.herokuapp.com'
 ]
 
 
